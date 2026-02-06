@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local SDK config
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Android generated folders
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Firebase config (contains project-specific settings)
+app/google-services.json
